@@ -1,0 +1,13 @@
+{
+  "name": "kot",
+  "version": "0.0.0",
+  "description": "It's a kot!",
+  "main": "index.js",
+  "repository": "antonmedv/kot",
+  "keywords": [
+    "cat",
+    "emoji"
+  ],
+  "author": "Anton Medvedev <anton@medv.io>",
+  "license": "MIT"
+}
