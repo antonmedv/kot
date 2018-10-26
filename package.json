@@ -1,5 +1,5 @@
 {
-  "name": "kot",
+  "name": "@medv/kot",
   "version": "0.0.0",
   "description": "It's a kot!",
   "main": "index.js",

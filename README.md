@@ -1,13 +1,13 @@
 # 🐱 It's a kot!
 
 ```
-npm i kot
+npm i @medv/kot
 ```
 
 ## Usage
 
 ```js
-const kot = require('kot')
+const kot = require('@medv/kot')
 ```
 
 ## LICENSE
